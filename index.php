@@ -1,6 +1,6 @@
 <?php
 // Conexão direta com banco SQL Server (sem mencionar nome do banco)
-// Clecio Antao - 25/03/2019
+// Clecio Antao - 25/03/2019 // PAVILION / editando
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 ?>
@@ -152,7 +152,7 @@ if ($stmt_table == false) {
             </tr> 
         <?php
         while ($row = sqlsrv_fetch_array($stmt_table_sel, SQLSRV_FETCH_ASSOC)) {
-            
+    
          ?>
            
         <tr>
