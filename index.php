@@ -1,6 +1,6 @@
 <?php
 // Conexão direta com banco SQL Server (sem mencionar nome do banco)
-// Clecio Antao - 25/03/2019 // PAVILION / editando
+// Clecio Antao - 25/03/2019 // PAVILION / editando 2
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 ?>
